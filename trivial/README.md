@@ -1,9 +1,9 @@
 # trivial
 
 A new Flutter project.
-![logo.png](logo.png)
 
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
