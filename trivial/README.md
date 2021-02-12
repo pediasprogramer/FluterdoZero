@@ -3,8 +3,8 @@
 A new Flutter project.
 
 <p align="Center">
-    <img width="100" height="100" src="Users/User/Desktop/APP1/imagem.png">
-</p>
+<img src="https://raw.githubusercontent.com/pediasprogramer/FluterdoZero/main/trivial/lib/assets/logo.png"> 
+</p>    
 
 ## Getting Started
 
