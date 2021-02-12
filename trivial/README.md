@@ -1,7 +1,7 @@
 # trivial
 
 A new Flutter project.
-![logo.png](./src/Academy/trivial/lib/assets/logo.png)
+![logo.png](logo.png)
 
 ## Getting Started
 
