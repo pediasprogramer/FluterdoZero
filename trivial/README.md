@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-<p align="Center">
+<p2 align="left">Logo</p2>
+<p align="left">
 <img src="https://raw.githubusercontent.com/pediasprogramer/FluterdoZero/main/trivial/lib/assets/logo.png"> 
 </p>    
 
